@@ -8,6 +8,8 @@ Das benutzte API:
 https://catfact.ninja/breeds
 
 ## Das Schema wurde in FigJam erstellt: 
+* Es ist eine ziemlich große und hochauflösende Graphik, ein Download lohnt sich. 
+* GARANTIERT KEIN RISIKO
 
 <p align="center">
 <img src=img/DataFlow_API_Scheme.png  height="350" width="650" >
