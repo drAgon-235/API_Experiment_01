@@ -10,7 +10,7 @@ https://catfact.ninja/breeds
 ## Das Schema wurde in FigJam erstellt: 
 
 <p align="center">
-<img src=img/DataFlow_API_Scheme.png  height="150" width="200" >
+<img src=img/DataFlow_API_Scheme.png  height="144" width="144" >
 </p>
 
 
