@@ -12,7 +12,7 @@ https://catfact.ninja/breeds
 * GARANTIERT KEIN RISIKO
 
 <p align="center">
-<img src=img/DataFlow_API_Scheme.png  height="350" width="650" >
+<img src=img/Dataflow_API_01.png  >
 </p>
 
 
